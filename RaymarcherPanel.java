@@ -84,8 +84,7 @@ public class RaymarcherPanel extends JPanel {
             // Advance the currentX out minDist units
             currentX += minDist;
             
-            currentX = x2;
-            currentY = y2;
+            
         }
         while (currentX >= 0 && currentY >= 0 && currentX <= this.getPreferredSize().getWidth() && currentY <= this.getPreferredSize().getHeight());
 
@@ -96,13 +95,12 @@ public class RaymarcherPanel extends JPanel {
     @Override
     public void paintComponent(Graphics g) {
         Graphics2D g2d = (Graphics2D) g;
-        double minDist = Integer.MAX_VALUE;
+        
         
         for (int i = 0; i < collisionObjects.size(); i++) {
             
             CollisionObject obj = collisionObjects.get(i);
             obj.drawObject(g2d);
-            minDist = Math.min(minDist, obj.computeDistance(camera1.getX(), camera1.getY()));
             
         }
 
