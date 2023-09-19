@@ -1,4 +1,4 @@
-#Here is a RayMarching program I made using Java and JavaSwing library. 
+#Here is a RayMarching program I made using JavaSwing library. 
 
 references: https://www.youtube.com/watch?v=PGtv-dBi2wE&t=552s (this is my inspiration also guidance for me to be able to complete this)
 
