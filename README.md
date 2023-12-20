@@ -28,5 +28,5 @@ Right/Left click to change perspective direction.
 List any software, libraries, or dependencies that users need to have installed before they can use your project.
 
 ```bash
-# Example for installing prerequisites using a package manager
-npm install
+hi there
+```
