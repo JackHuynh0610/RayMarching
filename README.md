@@ -1,9 +1,10 @@
 # RayMarching
-
 This program simulate a technique used in computer graphics, particularly in the context of rendering images, to generate realistic and complex scenes, especially in the field of real-time computer graphics and interactive applications. Unlike traditional rasterization techniques, which involve rendering triangles and pixels, raymarching is based on tracing rays through a scene and iteratively marching along those rays to find the intersection points with surfaces in a 3D environment.
 
 You can learn more about it here
 https://michaelwalczyk.com/blog-ray-marching.html
+https://adrianb.io/2016/10/01/raymarching.html
+https://typhomnt.github.io/teaching/ray_tracing/raymarching_intro/
 
 ## Table of Contents
 
@@ -12,17 +13,16 @@ https://michaelwalczyk.com/blog-ray-marching.html
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
-Provide a brief overview of your project. What does it do? What problem does it solve? Include any important context or background information.
+So this program is written using Java and JavaSwing library nothing fancy. Use your mouse pad or any device that allow the cursor to move to navigate and move the camera around. 
+Right/Left click to change perspective direction.
 
 ## Getting Started
 
-Explain how to get a copy of the project up and running on a local machine.
+- First you
 
 ### Prerequisites
 
