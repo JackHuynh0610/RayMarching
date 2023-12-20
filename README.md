@@ -1,6 +1,6 @@
 
 
-#**RayMarching**
+**RayMarching**
 This is a program showcase a technique use in computer graphics particularly in the context of rendering images, 
 to generate realistic and complex scenes, especially in the field of real-time computer graphics and interactive applications. 
 
