@@ -1,5 +1,5 @@
 # RayMarching
-  This program simulate a technique used in computer graphics, particularly in the context of rendering images, to generate realistic and complex scenes, especially in the field of real-time computer graphics and interactive applications. Unlike traditional rasterization techniques, which involve rendering triangles and pixels, raymarching is based on tracing rays through a scene and iteratively marching along those rays to find the intersection points with surfaces in a 3D environment.
+This program simulate a technique used in computer graphics, particularly in the context of rendering images, to generate realistic and complex scenes, especially in the field of real-time computer graphics and interactive applications. Unlike traditional rasterization techniques, which involve rendering triangles and pixels, raymarching is based on tracing rays through a scene and iteratively marching along those rays to find the intersection points with surfaces in a 3D environment.
 
 You can learn more about it here
 - https://michaelwalczyk.com/blog-ray-marching.html
@@ -11,7 +11,6 @@ You can learn more about it here
 - [Overview](#overview)
 - [Prerequisites](#prerequisites)
   - [Getting Started](#getting-started)
-  - [Installation](#installation)
 - [Enjoy](#enjoy)
 
 ## Overview
@@ -29,10 +28,12 @@ Right/Left click to change perspective direction.
     ```
      java -version
     ```
-
-###Getting Started
-
-
-```bash
-hi there
-```
+- For _Windows_:
+  - Open Command Prompt. Type in
+    ```
+     java -version
+    ```
+    
+### Getting Started
+- **Option 1**
+  - Navigate to _**release**_ section on the [** this repository**](https://github.com/JackHuynh0610/RayMarching) 
