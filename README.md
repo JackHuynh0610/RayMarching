@@ -7,20 +7,13 @@ Learn more about it here:
 - [Adrian Biagioli's Article](https://adrianb.io/2016/10/01/raymarching.html) 🌐
 - [Typhoon's Teaching Material](https://typhomnt.github.io/teaching/ray_tracing/raymarching_intro/) 📚
 
-## Table of Contents
-
-- [Overview 🚀](#overview)
-- [Prerequisites 🛠️](#prerequisites)
-  - [Getting Started 🚀](#getting-started)
-- [Enjoy 🌟](#enjoy)
-
 ## Overview 🚀
 
 This program is written using Java and the JavaSwing library—nothing fancy. Use your mouse pad or any device that allows the cursor to move to navigate and manipulate the camera. Right/Left-click to change the perspective direction.
 
 ## Prerequisites 🛠️
 - First, you'll need to have [**JRE**](https://www.guru99.com/how-to-open-a-jar-file.html#:~:text=You%20need%20a%20Java%20Runtime,and%20it%20will%20start%20running.) to run the [**jar**](https://docs.oracle.com/javase/8/docs/technotes/guides/jar/jarGuide.html) file for this program.
-- If you already have **JRE** installed, proceed to [Getting Started](#getting-started).
+- If you already have **JRE** installed, proceed to **Getting Started** section.
 
 **Check for JRE on your system:**
 - For _macOS and Linux_:
