@@ -9,8 +9,8 @@ You can learn more about it here
 ## Table of Contents
 
 - [Overview](#overview)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
+- [Prerequisites](#prerequisites)
+  - [Getting Started](#getting-started)
   - [Installation](#installation)
 - [Enjoy](#enjoy)
 
@@ -22,6 +22,13 @@ Right/Left click to change perspective direction.
 ## Prerequisites
 - First you will need to have [**JRE**](https://www.guru99.com/how-to-open-a-jar-file.html#:~:text=You%20need%20a%20Java%20Runtime,and%20it%20will%20start%20running.) to be able to run [**jar**](https://docs.oracle.com/javase/8/docs/technotes/guides/jar/jarGuide.html) file for this program.
 - If you already have **JRE** installed, go to [Getting Started](#getting-started).
+
+**See if you have JRE on your system**
+- For _macOS and Linux_:
+  - Open a terminal window. Type in
+    ```
+     java -version
+    ```
 
 ###Getting Started
 
