@@ -36,4 +36,4 @@ Right/Left click to change perspective direction.
     
 ### Getting Started
 - **Option 1**
-  - Navigate to _**release**_ section on the [** this repository**](https://github.com/JackHuynh0610/RayMarching) 
+  - Navigate to _**release**_ section on the [**this repository**](https://github.com/JackHuynh0610/RayMarching) 
