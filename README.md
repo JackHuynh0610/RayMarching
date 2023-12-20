@@ -45,4 +45,4 @@ Right/Left click to change perspective direction.
   - Check the Enviroment Path. This [**link**](https://www.javatpoint.com/how-to-set-path-in-java) might be helpful.
  
 ## Enjoy
-![RayMarch]([url](https://github.com/JackHuynh0610/RayMarching/blob/main/rayMarch.png)https://github.com/JackHuynh0610/RayMarching/blob/main/rayMarch.png)
+![RayMarch](rayMarch.png)
