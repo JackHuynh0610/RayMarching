@@ -20,7 +20,7 @@ So this program is written using Java and JavaSwing library nothing fancy. Use y
 Right/Left click to change perspective direction.
 
 ## Getting Started
-- First you will need to have a device that you could download [**JDK**]([(https://www.geeksforgeeks.org/jdk-in-java/)](https://www.geeksforgeeks.org/jdk-in-java/)) and run [**jar**](https://docs.oracle.com/javase/8/docs/technotes/guides/jar/jarGuide.html) file.
+- First you will need to have a device that you could download [**JDK**](https://www.geeksforgeeks.org/jdk-in-java/) and run [**jar**](https://docs.oracle.com/javase/8/docs/technotes/guides/jar/jarGuide.html) file.
 
 ### Prerequisites
 
