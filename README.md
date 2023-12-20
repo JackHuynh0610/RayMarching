@@ -36,4 +36,11 @@ Right/Left click to change perspective direction.
     
 ### Getting Started
 - **Option 1**
-  - Navigate to _**release**_ section on the [**this repository**](https://github.com/JackHuynh0610/RayMarching) 
+  - Navigate to _**release**_ section in the [**repository**](https://github.com/JackHuynh0610/RayMarching). Clicked on **RayMarching alpha**.
+  - Look for **.jar** file to download. Remember where you installed, navigate to that folder, double click on it then Enjoy!.
+- **Option 2**
+  - Clone this repository, navigate to jar file and then just run it. By cloning you can see the source code and test stuff out on your own machine.
+### TroubleShoot
+- If you have **JRE** installed but the program still not run
+  - Check the Enviroment Path. This [**link**](https://www.javatpoint.com/how-to-set-path-in-java) might be helpful.
+
