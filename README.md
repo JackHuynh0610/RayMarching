@@ -1,30 +1,33 @@
+# RayMarching
 
+This program simulate a technique used in computer graphics, particularly in the context of rendering images, to generate realistic and complex scenes, especially in the field of real-time computer graphics and interactive applications. Unlike traditional rasterization techniques, which involve rendering triangles and pixels, raymarching is based on tracing rays through a scene and iteratively marching along those rays to find the intersection points with surfaces in a 3D environment.
 
-**RayMarching**
-This is a program showcase a technique use in computer graphics particularly in the context of rendering images, 
-to generate realistic and complex scenes, especially in the field of real-time computer graphics and interactive applications. 
+You can learn more about it here
+https://michaelwalczyk.com/blog-ray-marching.html
 
+## Table of Contents
 
+- [Overview](#overview)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
 
-Downloading the JAR File
-Follow these steps to download and use the JAR file for this project.
+## Overview
 
-**Prerequisites**
-Make sure you have the following installed on your system:
+Provide a brief overview of your project. What does it do? What problem does it solve? Include any important context or background information.
 
-Java Development Kit (JDK)
-Git (optional, for cloning the repository)
+## Getting Started
 
+Explain how to get a copy of the project up and running on a local machine.
 
+### Prerequisites
 
-Downloading the JAR File
-Option 1: Download from Release
-Go to the "Releases" section of this GitHub repository.
-Find the latest release and download the attached JAR file.
-Save the JAR file to your preferred directory.
-Option 2: Clone the Repository
-Open a terminal or command prompt.
+List any software, libraries, or dependencies that users need to have installed before they can use your project.
 
-Navigate to the directory where you want to store the project files.
-
-Run the following command to clone the repository:
+```bash
+# Example for installing prerequisites using a package manager
+npm install
