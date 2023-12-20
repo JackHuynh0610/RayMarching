@@ -12,8 +12,7 @@ You can learn more about it here
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
+- [Enjoy](#enjoy)
 
 ## Overview
 
