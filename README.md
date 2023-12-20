@@ -9,10 +9,10 @@ Learn more about it here:
 
 ## Table of Contents
 
-- [Overview](#overview)
-- [Prerequisites](#prerequisites)
-  - [Getting Started](#getting-started)
-- [Enjoy](#enjoy)
+- [Overview 🚀](#overview)
+- [Prerequisites 🛠️](#prerequisites)
+  - [Getting Started 🚀](#getting-started)
+- [Enjoy 🌟](#enjoy)
 
 ## Overview 🚀
 
