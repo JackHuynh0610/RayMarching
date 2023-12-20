@@ -19,12 +19,12 @@ You can learn more about it here
 So this program is written using Java and JavaSwing library nothing fancy. Use your mouse pad or any device that allow the cursor to move to navigate and move the camera around. 
 Right/Left click to change perspective direction.
 
-## Getting Started
-- First you will need to have a device that you could download [**JRE**](https://www.guru99.com/how-to-open-a-jar-file.html#:~:text=You%20need%20a%20Java%20Runtime,and%20it%20will%20start%20running.) and run [**jar**](https://docs.oracle.com/javase/8/docs/technotes/guides/jar/jarGuide.html) file.
+## Prerequisites
+- First you will need to have [**JRE**](https://www.guru99.com/how-to-open-a-jar-file.html#:~:text=You%20need%20a%20Java%20Runtime,and%20it%20will%20start%20running.) to be able to run [**jar**](https://docs.oracle.com/javase/8/docs/technotes/guides/jar/jarGuide.html) file for this program.
+- If you already have **JRE** installed, go to [Getting Started](#getting-started).
 
-### Prerequisites
+###Getting Started
 
-List any software, libraries, or dependencies that users need to have installed before they can use your project.
 
 ```bash
 hi there
