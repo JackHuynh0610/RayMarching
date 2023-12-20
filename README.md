@@ -1,5 +1,5 @@
 # RayMarching
-This program simulate a technique used in computer graphics, particularly in the context of rendering images, to generate realistic and complex scenes, especially in the field of real-time computer graphics and interactive applications. Unlike traditional rasterization techniques, which involve rendering triangles and pixels, raymarching is based on tracing rays through a scene and iteratively marching along those rays to find the intersection points with surfaces in a 3D environment.
+  This program simulate a technique used in computer graphics, particularly in the context of rendering images, to generate realistic and complex scenes, especially in the field of real-time computer graphics and interactive applications. Unlike traditional rasterization techniques, which involve rendering triangles and pixels, raymarching is based on tracing rays through a scene and iteratively marching along those rays to find the intersection points with surfaces in a 3D environment.
 
 You can learn more about it here
 - https://michaelwalczyk.com/blog-ray-marching.html
