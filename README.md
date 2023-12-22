@@ -39,4 +39,4 @@ This program is written using Java and the JavaSwing library—nothing fancy. Us
   - Check the Environment Path. This [**link**](https://www.javatpoint.com/how-to-set-path-in-java) might be helpful.
 
 ## Enjoy 🌟
-![RayMarch](rayMarch.png) 🚀
+![RayMarch](https://github.com/JackHuynh0610/RayMarching/blob/main/raymarch.gif) 🚀
